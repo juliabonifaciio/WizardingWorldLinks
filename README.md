@@ -2,88 +2,75 @@
 
 ![Banner](./github/github-banner.png)
 
-Um portal mágico que reúne os principais links do universo de Harry Potter em um só lugar, com interface interativa e design responsivo.
+A magical portal that brings together the main links from the Harry Potter universe in one place, with an interactive interface and responsive design.
 
-## Índice
+## Index
+- [About](#about)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [Sobre](#sobre)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+## About
+Wizarding World Links is a web application that centralizes the main links related to the Harry Potter universe. With a thematic design and interactive interface, the project offers easy access to resources such as the Sorting Hat, Wizarding World, and other platforms from the wizarding universe.
 
-## Sobre
+## Features
+- Interactive light/dark mode
+- Links to main Harry Potter universe platforms
+- Responsive interface
+- Social media integration
+- Custom thematic design
+- Interactive animations
 
-O Wizarding World Links é uma aplicação web que centraliza os principais links relacionados ao universo de Harry Potter. Com um design temático e interface interativa, o projeto oferece fácil acesso a recursos como o Chapéu Seletor, Wizarding World e outras plataformas do universo bruxo.
-
-## Funcionalidades
-
-- Modo claro/escuro interativo
-- Links para principais plataformas do universo Harry Potter
-- Interface responsiva
-- Integração com redes sociais
-- Design temático personalizado
-- Animações interativas
-
-## Tecnologias
-
+## Technologies
 - HTML5
 - CSS3
 - JavaScript
 
-## Instalação
-
-1. Clone o repositório:
+## Installation
+1. Clone the repository:
 ```bash
 git clone https://github.com/juliabonifaciio/WizardingWorldLinks.git
 ```
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
 ```bash
 cd WizardingWorldLinks
 ```
 
-3. Abra o arquivo index.html no seu navegador ou use um servidor local.
+3. Open the index.html file in your browser or use a local server.
 
-## Uso
+## Usage
+1. Access the site through the browser
+2. Use the toggle button to switch between light and dark mode
+3. Click on the links to access different platforms
+4. Connect through available social networks
 
-1. Acesse o site através do navegador
-2. Utilize o botão de alternância para mudar entre modo claro e escuro
-3. Clique nos links para acessar as diferentes plataformas
-4. Conecte-se através das redes sociais disponíveis
+## License
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
+## Technical Details
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 🔧 Detalhes Técnicos
-
-### Integração com Ion Icons
-
-O projeto utiliza a biblioteca Ion Icons para os ícones de redes sociais:
-
+### Ion Icons Integration
+The project uses the Ion Icons library for social media icons:
 ```html
-<script 
-  type="module" 
-  src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js">
+<script
+   type="module"
+   src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js">
 </script>
 ```
 
 ### Google Fonts
-
-Fonte utilizada no projeto:
-
+Font used in the project:
 ```html
-<link 
-  href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
-  rel="stylesheet"
+<link
+   href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+   rel="stylesheet"
 >
 ```
 
-## Autora
-
-- **Julia Bonifacio** - [juliabonifaciio](https://github.com/juliabonifaciio)# WizardingWorldLinks
+## Author
+- **Julia Bonifacio** - [juliabonifaciio](https://github.com/juliabonifaciio)
