@@ -4,7 +4,7 @@
 
 A magical portal that brings together the main links from the Harry Potter universe in one place, with an interactive interface and responsive design.
 
-## Index
+## Table of Contents
 - [About](#about)
 - [Features](#features)
 - [Technologies](#technologies)
@@ -25,7 +25,7 @@ Wizarding World Links is a web application that centralizes the main links relat
 - Custom thematic design
 - Interactive animations
 
-## Technologies
+## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
