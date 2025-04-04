@@ -1,6 +1,6 @@
 # Wizarding World Links
 
-![Banner](./github/github-banner.png)
+![Banner](./github/GithubBanner.jpg)
 
 A magical portal that brings together the main links from the Harry Potter universe in one place, with an interactive interface and responsive design.
 
